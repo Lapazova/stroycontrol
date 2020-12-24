@@ -1,0 +1,12 @@
+.house__content {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 1040px;
+}
+.house__text {
+    margin: 16px 0 40px;
+}
+.house__image {
+    max-width: 100%;
+    margin-bottom: 144px;
+}
